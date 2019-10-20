@@ -98,7 +98,7 @@ body::before {
 <br><br>
 <p>動画</p>
  <a href="https://youtu.be/5Wj9Bwennn0" target="_blank">ダンス</a><br/>
- <a href="https://youtu.be/Qyh-_Hlw02A" target="_blank">b</a><br/>ブランコ
+ <a href="https://youtu.be/Qyh-_Hlw02A" target="_blank">ブランコ</a><br/>
  <a href="https://youtu.be/5dXqKsBkR-4" target="_blank">お掃除_1</a><br/>
  <a href="https://youtu.be/YK00QxYtysg" target="_blank">お掃除_2</a><br/>
  <a href="https://youtu.be/1_rGzy7ZMuU" target="_blank">ゆなちゃん＆アキ</a><br/>
