@@ -6,7 +6,7 @@
 
 <style type="text/css">
  p {
-color: #0000ff;
+color: #000000;
 font-size: 1.5em;
  }
 
@@ -84,11 +84,11 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
 <body>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん 2019年06月~8月 !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <p align="left"> <img src="QR_yuna.jpg" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
