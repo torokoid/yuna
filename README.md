@@ -98,12 +98,13 @@ body::before {
 
 <br><br>
 <p>動画</p>
- <a href="https://youtu.be/5Wj9Bwennn0" target="_blank">ダンス</a><br/>
- <a href="https://youtu.be/Qyh-_Hlw02A" target="_blank">ブランコ</a><br/>
- <a href="https://youtu.be/5dXqKsBkR-4" target="_blank">お掃除_1</a><br/>
- <a href="https://youtu.be/YK00QxYtysg" target="_blank">お掃除_2</a><br/>
- <a href="https://youtu.be/1_rGzy7ZMuU" target="_blank">ゆなちゃん＆アキ</a><br/>
+ <a href="https://youtu.be/5Wj9Bwennn0?t=8" target="_blank">ダンス</a><br/>
+ <a href="https://youtu.be/Qyh-_Hlw02A?t=32" target="_blank">ブランコ</a><br/>
+ <a href="https://youtu.be/5dXqKsBkR-4?t=20" target="_blank">お掃除_1</a><br/>
+ <a href="https://youtu.be/YK00QxYtysg?t=23" target="_blank">お掃除_2</a><br/>
+ <a href="https://youtu.be/1_rGzy7ZMuU?t=3" target="_blank">ゆなちゃん＆アキ</a><br/>
  <a href="https://youtu.be/E_LBEk5mChw" target="_blank">お掃除_3</a><br/>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/E_LBEk5mChw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
