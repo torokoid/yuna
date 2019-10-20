@@ -97,12 +97,12 @@ body::before {
 
 <br><br>
 <p>動画</p>
-<a href="https://youtu.be/5Wj9Bwennn0" target="_blank"><img src="20190809_099.JPG" alt="ゆなちゃん" width="900" /></a>
-<a href="https://youtu.be/Qyh-_Hlw02A" target="_blank"><img src="20190809_099.JPG" alt="ゆなちゃん" width="900" /></a>
-<a href="https://youtu.be/5dXqKsBkR-4" target="_blank"><img src="20190809_099.JPG" alt="ゆなちゃん" width="900" /></a>
-<a href="https://youtu.be/YK00QxYtysg" target="_blank"><img src="20190809_099.JPG" alt="ゆなちゃん" width="900" /></a>
-<a href="https://youtu.be/1_rGzy7ZMuU" target="_blank"><img src="20190809_099.JPG" alt="ゆなちゃん" width="900" /></a>
-<a href="https://youtu.be/E_LBEk5mChw" target="_blank"><img src="20190809_099.JPG" alt="ゆなちゃん" width="900" /></a>
+ <a href="https://youtu.be/5Wj9Bwennn0" target="_blank">ダンス</a><br/>
+ <a href="https://youtu.be/Qyh-_Hlw02A" target="_blank">b</a><br/>ブランコ
+ <a href="https://youtu.be/5dXqKsBkR-4" target="_blank">お掃除_1</a><br/>
+ <a href="https://youtu.be/YK00QxYtysg" target="_blank">お掃除_2</a><br/>
+ <a href="https://youtu.be/1_rGzy7ZMuU" target="_blank">ゆなちゃん＆アキ</a><br/>
+ <a href="https://youtu.be/E_LBEk5mChw" target="_blank">お掃除_3</a><br/>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
