@@ -87,7 +87,7 @@ body::before {
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん 2019年06月~8月 !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2019</p></div>
+</div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
