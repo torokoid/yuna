@@ -96,7 +96,7 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
-<br><br>
+
 <p>動画</p>
  <a href="https://youtu.be/5Wj9Bwennn0" target="_blank">ダンス</a><br/>
  <a href="https://youtu.be/Qyh-_Hlw02A" target="_blank">ブランコ</a><br/>
@@ -104,6 +104,9 @@ body::before {
  <a href="https://youtu.be/YK00QxYtysg" target="_blank">お掃除_2</a><br/>
  <a href="https://youtu.be/1_rGzy7ZMuU" target="_blank">ゆなちゃん＆アキ</a><br/>
  <a href="https://youtu.be/E_LBEk5mChw" target="_blank">お掃除_3</a><br/>
+<br>
+
+<h1><span class="yellow"><marquee behavior="alternate">!!! 公園でお散歩 2019年10月20日 !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
