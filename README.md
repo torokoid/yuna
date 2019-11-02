@@ -97,13 +97,29 @@ body::before {
 -->
 
 
+
+<h1><span class="blue"><strong>動画リンク集</strong></span></h1><br><br>
+<h2><p>ダンス</p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Wj9Bwennn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<h2><p>ブランコ</p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qyh-_Hlw02A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<h2><p>お掃除_1</p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5dXqKsBkR-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<h2><p>お掃除_2</p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YK00QxYtysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<h2><p>ゆなちゃん＆アキ</p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_rGzy7ZMuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<h2><p>お掃除_3</p></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_LBEk5mChw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+
+<!--
 <p>動画</p>
  <a href="https://youtu.be/5Wj9Bwennn0" target="_blank">ダンス</a><br/>
  <a href="https://youtu.be/Qyh-_Hlw02A" target="_blank">ブランコ</a><br/>
  <a href="https://youtu.be/5dXqKsBkR-4" target="_blank">お掃除_1</a><br/>
  <a href="https://youtu.be/YK00QxYtysg" target="_blank">お掃除_2</a><br/>
  <a href="https://youtu.be/1_rGzy7ZMuU" target="_blank">ゆなちゃん＆アキ</a><br/>
- <a href="https://youtu.be/E_LBEk5mChw" target="_blank">お掃除_3</a><br/>
+ <a href="https://youtu.be/E_LBEk5mChw" target="_blank">お掃除_3</a><br/>-->
 <br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園でお散歩 2019年10月20日 !!!</marquee></span></h1>
