@@ -125,8 +125,10 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園でお散歩 2019年10月20日 !!!</marquee></span></h1>
 
 <a href="20191020_001.JPG" data-lightbox="abc"><img src="20191020_001.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20191020_002.JPG" data-lightbox="abc"><img src="20191020_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191020_003.JPG" data-lightbox="abc"><img src="20191020_003.JPG" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20191020_004.JPG" data-lightbox="abc"><img src="20191020_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191020_005.JPG" data-lightbox="abc"><img src="20191020_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191020_006.JPG" data-lightbox="abc"><img src="20191020_006.JPG" alt="サンプル画像" width="900" /></a>
