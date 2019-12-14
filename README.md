@@ -85,7 +85,7 @@ body::before {
 
 <body>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん 2019年06月~8月 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
 </div>
 
@@ -115,18 +115,18 @@ body::before {
 
 <h1><span class="blue"><strong>動画リンク集</strong></span></h1><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園で 2019年８月5日 !!!</marquee></span></h1>
-<h2><p>ダンス</p></h2>
+<h2><span class="blue">ダンス</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Wj9Bwennn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-<h2><p>ブランコ</p></h2>
+<h2><span class="blue">ブランコ</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qyh-_Hlw02A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! お掃除 2019年6月8日 !!!</marquee></span></h1>
-<h2><p>お掃除_1</p></h2>
+<h2><span class="blue">お掃除_1</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5dXqKsBkR-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-<h2><p>お掃除_2</p></h2>
+<h2><span class="blue">お掃除_2</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YK00QxYtysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-<h2><p>ゆなちゃん＆アキ</p></h2>
+<h2><span class="blue">ゆなちゃん＆アキ</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_rGzy7ZMuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-<h2><p>お掃除_3</p></h2>
+<h2><span class="blue">お掃除_3</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E_LBEk5mChw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 <!--
