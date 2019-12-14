@@ -85,9 +85,11 @@ body::before {
 
 <body>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!--
 <h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
 </div>
+-->
 
 <p align="left"> <img src="QR_yuna.jpg" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
