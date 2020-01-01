@@ -122,8 +122,9 @@ body::before {
 <a href="20200101_018.JPG" data-lightbox="abc"><img src="20200101_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200101_019.JPG" data-lightbox="abc"><img src="20200101_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200101_020.JPG" data-lightbox="abc"><img src="20200101_020.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">元旦ブランコ</span></h2>
+<h2><span class="blue">元旦公園</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bsaGl03v1ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CVTuvORq3v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! お花と写真 2019年12月14日 !!!</marquee></span></h1>
