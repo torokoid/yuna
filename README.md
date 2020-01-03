@@ -101,7 +101,7 @@ body::before {
 
 
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! Loveとアキ、お正月のお散歩 2020年1月1日 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! Love君とアキ、お正月のお散歩 2020年1月1日 !!!</marquee></span></h1>
 <a href="20200101_001.JPG" data-lightbox="abc"><img src="20200101_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200101_002.JPG" data-lightbox="abc"><img src="20200101_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200101_003.JPG" data-lightbox="abc"><img src="20200101_003.JPG" alt="サンプル画像" width="900" /></a>
