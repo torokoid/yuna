@@ -99,9 +99,9 @@ body::before {
 -->
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん、縄跳び 2020年1月17日 !!!</marquee></span></h1>
-<a href="2020017_001.JPG" data-lightbox="abc"><img src="2020017_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="2020017_002.JPG" data-lightbox="abc"><img src="2020017_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="2020017_003.JPG" data-lightbox="abc"><img src="2020017_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200117_001.JPG" data-lightbox="abc"><img src="20200117_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200117_002.JPG" data-lightbox="abc"><img src="20200117_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200117_003.JPG" data-lightbox="abc"><img src="20200117_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
 
