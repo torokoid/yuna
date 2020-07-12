@@ -205,11 +205,11 @@ body::before {
 <a href="20200101_019.JPG" data-lightbox="abc"><img src="20200101_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200101_020.JPG" data-lightbox="abc"><img src="20200101_020.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">元旦公園</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bsaGl03v1ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVTuvORq3v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WTqB1APgDUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3msZsTFoXCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MrEuMZYTalQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/bsaGl03v1ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/CVTuvORq3v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/WTqB1APgDUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/3msZsTFoXCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/MrEuMZYTalQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! お花と写真 2019年12月14日 !!!</marquee></span></h1>
@@ -264,18 +264,18 @@ body::before {
 <h1><span class="blue"><strong>動画リンク集</strong></span></h1><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園で 2019年８月5日 !!!</marquee></span></h1>
 <h2><span class="blue">ダンス</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Wj9Bwennn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/5Wj9Bwennn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <h2><span class="blue">ブランコ</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qyh-_Hlw02A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/Qyh-_Hlw02A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! お掃除 2019年6月8日 !!!</marquee></span></h1>
 <h2><span class="blue">お掃除_1</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5dXqKsBkR-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/5dXqKsBkR-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <h2><span class="blue">お掃除_2</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YK00QxYtysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/YK00QxYtysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <h2><span class="blue">ゆなちゃん＆アキ</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1_rGzy7ZMuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/1_rGzy7ZMuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <h2><span class="blue">お掃除_3</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_LBEk5mChw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/E_LBEk5mChw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 <!--
 <p>動画</p>
