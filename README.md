@@ -101,6 +101,12 @@ body::before {
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園 2020年7月12日 !!!</marquee></span></h1>
 <a href="20200712_001.JPG" data-lightbox="abc"><img src="20200712_001.JPG" alt="サンプル画像" width="900" /></a>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/IRmnC2xP16U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/UACvq3Mreck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/ix9ZnM5EKXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/qDurHDwISUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/GA1lGu05WMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br><br><br>
 
