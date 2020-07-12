@@ -100,7 +100,7 @@ body::before {
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園 2020年7月12日 !!!</marquee></span></h1>
-<a href="20200712001.JPG" data-lightbox="abc"><img src="20200712001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200712_001.JPG" data-lightbox="abc"><img src="20200712_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
 
