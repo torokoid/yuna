@@ -126,10 +126,10 @@ body::before {
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! こごみ狩り 2020年4月30日 !!!</marquee></span></h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zTf1u1nSsjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/zTf1u1nSsjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1gcIjBvp7Tk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/1gcIjBvp7Tk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br><br><br>
@@ -169,7 +169,7 @@ body::before {
 <a href="20200119_017.JPG" data-lightbox="abc"><img src="20200119_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200119_018.JPG" data-lightbox="abc"><img src="20200119_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200119_019.JPG" data-lightbox="abc"><img src="20200119_019.JPG" alt="サンプル画像" width="900" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7830f_jhVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/E7830f_jhVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br><br>
 
@@ -178,7 +178,7 @@ body::before {
 <a href="20200117_001.JPG" data-lightbox="abc"><img src="20200117_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200117_002.JPG" data-lightbox="abc"><img src="20200117_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200117_003.JPG" data-lightbox="abc"><img src="20200117_003.JPG" alt="サンプル画像" width="900" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f7-DYcJ_NzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/f7-DYcJ_NzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br><br><br>
