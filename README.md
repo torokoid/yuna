@@ -97,6 +97,13 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+<h1><span class="yellow"><marquee behavior="alternate">!!! パワーショベル 2020年8月9日 !!!</marquee></span></h1>
+<a href="20200809_001.JPG" data-lightbox="abc"><img src="20200809_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200809_002.JPG" data-lightbox="abc"><img src="20200809_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200809_003.JPG" data-lightbox="abc"><img src="20200809_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200809_004.JPG" data-lightbox="abc"><img src="20200809_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br>
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 公園 2020年7月31日 !!!</marquee></span></h1>
