@@ -97,6 +97,8 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+
+<h1><span class="yellow"><marquee behavior="left">!!! 水泳新記録、Free:25m, 25秒台 2020年11月21日@ドリームかわちプール !!!</marquee></span></h1><br>
 <h1><span class="yellow"><marquee behavior="left">!!! 水泳新記録、Free:25m, 26.1秒 2020年11月17日@ドリームかわちプール !!!</marquee></span></h1>
 <a href="20201117_001.JPG" data-lightbox="abc"><img src="20201117_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20201117_002.JPG" data-lightbox="abc"><img src="20201117_002.JPG" alt="サンプル画像" width="900" /></a>
