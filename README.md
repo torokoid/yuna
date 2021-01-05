@@ -98,6 +98,10 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ラブくんとおさんぽ！ 2021年1月5日 !!!</marquee></span></h1>
+<a href="20210105_001.jpg" data-lightbox="abc"><img src="20210105_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210105_002.jpg" data-lightbox="abc"><img src="20210105_002.jpg" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! 水泳新記録、Free:25m, 25.9秒 2020年11月21日@ドリームかわちプール !!!</marquee></span></h1><br>
 <h1><span class="yellow"><marquee behavior="left">!!! 水泳新記録、Free:25m, 26.1秒 2020年11月17日@ドリームかわちプール !!!</marquee></span></h1>
 <a href="20201117_001.JPG" data-lightbox="abc"><img src="20201117_001.JPG" alt="サンプル画像" width="900" /></a>
