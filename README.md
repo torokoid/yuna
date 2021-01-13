@@ -98,6 +98,11 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+
+<h1><span class="yellow"><marquee behavior="left">!!! ２５mフリー、自己ベスト 24.4秒！ 2021年1月13日 !!!</marquee></span></h1>
+<h2><span class="blue">プールの上には、オリオン座と冬の大三角形</span></h2>
+<a href="20210113_001.jpg" data-lightbox="abc"><img src="20210113_001.jpg" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ラブくんと、お散歩！ 2021年1月5日 !!!</marquee></span></h1>
 <a href="20210105_001.jpg" data-lightbox="abc"><img src="20210105_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210105_002.jpg" data-lightbox="abc"><img src="20210105_002.jpg" alt="サンプル画像" width="900" /></a>
