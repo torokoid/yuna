@@ -98,6 +98,7 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ２５mフリー、自己ベスト 23.1秒！ 2021年1月15日 !!!</marquee></span></h1>
 
 <h1><span class="yellow"><marquee behavior="left">!!! ２５mフリー、自己ベスト 24.1秒！ 2021年1月13日 !!!</marquee></span></h1>
 <h2><span class="yellow">プールの上には、オリオン座と冬の大三角形</span></h2>
