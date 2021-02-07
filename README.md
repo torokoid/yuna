@@ -99,16 +99,16 @@ body::before {
 -->
 
 <h1><span class="yellow"><marquee behavior="left">!!! アキとラブくん、お散歩５Km！ 2021年2月7日 !!!</marquee></span></h1>
-<a href="20210207_001.jpg" data-lightbox="abc"><img src="20210207_001.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_002.jpg" data-lightbox="abc"><img src="20210207_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_003.jpg" data-lightbox="abc"><img src="20210207_003.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_004.jpg" data-lightbox="abc"><img src="20210207_004.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_005.jpg" data-lightbox="abc"><img src="20210207_005.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_006.jpg" data-lightbox="abc"><img src="20210207_006.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_007.jpg" data-lightbox="abc"><img src="20210207_007.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_008.jpg" data-lightbox="abc"><img src="20210207_008.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_009.jpg" data-lightbox="abc"><img src="20210207_009.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210207_010.jpg" data-lightbox="abc"><img src="20210207_010.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210207_001.JPG" data-lightbox="abc"><img src="20210207_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_002.JPG" data-lightbox="abc"><img src="20210207_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_003.JPG" data-lightbox="abc"><img src="20210207_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_004.JPG" data-lightbox="abc"><img src="20210207_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_005.JPG" data-lightbox="abc"><img src="20210207_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_006.JPG" data-lightbox="abc"><img src="20210207_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_007.JPG" data-lightbox="abc"><img src="20210207_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_008.JPG" data-lightbox="abc"><img src="20210207_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_009.JPG" data-lightbox="abc"><img src="20210207_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210207_010.JPG" data-lightbox="abc"><img src="20210207_010.JPG" alt="サンプル画像" width="900" /></a>
 
 <h1><span class="yellow"><marquee behavior="left">!!! ２５mフリー、自己ベスト 23.1秒！ 2021年1月15日 !!!</marquee></span></h1>
 
