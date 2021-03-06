@@ -99,7 +99,7 @@ body::before {
 -->
 
 <h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん、縄跳び２重クロス！ 2021年3月6日 !!!</marquee></span></h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJDUuQY-Brw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="９００" height="５０６" src="https://www.youtube.com/embed/hJDUuQY-Brw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1><span class="yellow"><marquee behavior="left">!!! アキとラブくん、お散歩５Km！ 2021年2月7日 !!!</marquee></span></h1>
 <a href="20210207_001.JPG" data-lightbox="abc"><img src="20210207_001.JPG" alt="サンプル画像" width="900" /></a>
