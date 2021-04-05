@@ -98,6 +98,19 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+
+
+<h1><span class="yellow"><marquee behavior="left">!!! 岡本の公園、夕暮れに葉桜！ 2021年4月5日 !!!</marquee></span></h1>
+<a href="20210405_001.JPG" data-lightbox="abc"><img src="20210405_001.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_002.JPG" data-lightbox="abc"><img src="20210405_002.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_003.JPG" data-lightbox="abc"><img src="20210405_003.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_004.JPG" data-lightbox="abc"><img src="20210405_004.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_005.JPG" data-lightbox="abc"><img src="20210405_005.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_006.JPG" data-lightbox="abc"><img src="20210405_006.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_007.JPG" data-lightbox="abc"><img src="20210405_007.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_008.JPG" data-lightbox="abc"><img src="20210405_008.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210405_009.JPG" data-lightbox="abc"><img src="20210405_009.JPG" alt="サンプル画像" width="300" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん、縄跳び２重クロス！ 2021年3月6日 !!!</marquee></span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/hJDUuQY-Brw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
