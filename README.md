@@ -99,7 +99,7 @@ body::before {
 -->
 
 
-<h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん自転車！ 2021年4月13日 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん水泳タイム更新、25Free:21.8秒！ 2021年4月13日 !!!</marquee></span></h1>
 <a href="20210413_012.JPG" data-lightbox="abc"><img src="20210413_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210413_013.JPG" data-lightbox="abc"><img src="20210413_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210413_014.JPG" data-lightbox="abc"><img src="20210413_014.JPG" alt="サンプル画像" width="900" /></a>
