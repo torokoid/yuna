@@ -71,6 +71,11 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+	
 </style>
 
 
@@ -84,6 +89,12 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
 <body>
+	
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
+	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん !!!</marquee></span></h1>
