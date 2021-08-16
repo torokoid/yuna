@@ -90,11 +90,6 @@ body::before {
 
 <body>
 	
-<p class="note">
-  モバイル端末をお使いの場合は、画面を横向きにすると
-  より見やすくご覧頂けます。
-</p>
-	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <h1><span class="yellow"><marquee behavior="alternate">!!! ゆなちゃん !!!</marquee></span></h1>
@@ -102,6 +97,11 @@ body::before {
 </div>
 -->
 
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
+	
 <p align="left"> <img src="QR_yuna.jpg" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
