@@ -454,5 +454,5 @@ body::before {
 
 <!-- フッタ -->
  <footer>
- <p>Copyright 2019/10/20 S.Hada</p>
+ <p>Copyright 2019/10/20 S.Hada   背景は2019年6月8日</p>
  </footer>
