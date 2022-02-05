@@ -133,6 +133,8 @@ body::before {
 <a href="20220204_019.JPG" data-lightbox="abc"><img src="20220204_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220204_020.JPG" data-lightbox="abc"><img src="20220204_020.JPG" alt="サンプル画像" width="900" /></a>
 	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DmP_Qxv4Bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 	
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、ラブくんの前で縄跳び！ 2022年1月2日 !!!</marquee></span></h1>	
 
