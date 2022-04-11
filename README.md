@@ -117,6 +117,10 @@ body::before {
 	
 <iframe width="460" height="818" src="https://www.youtube.com/embed/J5Fs8-E-fTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<a href="20220410_001.JPG" data-lightbox="abc"><img src="20220410_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220410_002.JPG" data-lightbox="abc"><img src="20220410_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220410_003.JPG" data-lightbox="abc"><img src="20220410_003.JPG" alt="サンプル画像" width="900" /></a>
+	
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、お花見して花びら集め！ 2022年4月5日 !!!</marquee></span></h1>	
 	
 <a href="20220405_001.JPG" data-lightbox="abc"><img src="20220405_001.JPG" alt="サンプル画像" width="900" /></a>
