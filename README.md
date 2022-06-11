@@ -108,7 +108,12 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+	
+<h1><span class="yellow"><marquee behavior="left">!!! 日環アリーナ、水泳練習！ 2022年6月11日 !!!</marquee></span></h1>
 
+<a href="20220611_004.JPG" data-lightbox="abc"><img src="20220611_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220611_001.JPG" data-lightbox="abc"><img src="20220611_001.JPG" alt="サンプル画像" width="900" /></a>	
+<a href="20220611_002.JPG" data-lightbox="abc"><img src="20220611_002.JPG" alt="サンプル画像" width="900" /></a>	
 
 <h1><span class="yellow"><marquee behavior="left">!!! ラブくんと公園お散歩！ 2022年5月5日 !!!</marquee></span></h1>
 
