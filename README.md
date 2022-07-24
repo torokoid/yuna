@@ -108,6 +108,12 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+
+<h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、スイカ収穫！ 2022年7月25日 !!!</marquee></span></h1>
+
+<a href="20220725_001.JPG" data-lightbox="abc"><img src="20220725_001.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20220725_002.JPG" data-lightbox="abc"><img src="20220725_002.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20220725_003.JPG" data-lightbox="abc"><img src="20220725_003.JPG" alt="サンプル画像" width="900" /></a>
 	
 <h1><span class="yellow"><marquee behavior="left">!!! ドリームかわち、練習後のマリオカート！ 2022年6月17日 !!!</marquee></span></h1>
 
