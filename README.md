@@ -111,10 +111,11 @@ body::before {
 
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、スイカ収穫！ 2022年7月25日 !!!</marquee></span></h1>
 
+<p>岡本エリアはお花の季節</p>
 <a href="20220725_001.JPG" data-lightbox="abc"><img src="20220725_001.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20220725_002.JPG" data-lightbox="abc"><img src="20220725_002.JPG" alt="サンプル画像" width="300" /></a>
 
-<p>ユナちゃん、スイカの重さに笑顔も消える・・・(>_<)</p>
+<p>ユナちゃん収穫！スイカの重さに笑顔も消える・・・(>_<)</p>
 <a href="20220725_003.JPG" data-lightbox="abc"><img src="20220725_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220725_004.JPG" data-lightbox="abc"><img src="20220725_004.JPG" alt="サンプル画像" width="900" /></a>
 <p>スイカは美味しくいただきました！</p>
