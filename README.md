@@ -117,7 +117,7 @@ body::before {
 <p>ユナちゃん、スイカの重さに笑顔も消える・・・(>_<)</p>
 <a href="20220725_003.JPG" data-lightbox="abc"><img src="20220725_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220725_004.JPG" data-lightbox="abc"><img src="20220725_004.JPG" alt="サンプル画像" width="900" /></a>
-<p>スイカは美味しくいただきました！)</p>
+<p>スイカは美味しくいただきました！</p>
 <a href="20220725_005.JPG" data-lightbox="abc"><img src="20220725_005.JPG" alt="サンプル画像" width="900" /></a>
 	
 	
