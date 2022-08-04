@@ -108,6 +108,10 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+	
+<h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、北條さんに草遊びを教えてもらいました！ 2022年8月3日 !!!</marquee></span></h1>
+	
+
 
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、スイカ収穫！ 2022年7月25日 !!!</marquee></span></h1>
 
