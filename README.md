@@ -108,6 +108,15 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+
+<h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、辰巳国際プールで大活躍しました！ 2022年8月20日 !!!</marquee></span></h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/igaxEJGLN68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGTfTOdndz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c23H8GIS0No" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 	
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん、北條さんに草遊びを教えてもらいました！ 2022年8月3日 !!!</marquee></span></h1>
 	
