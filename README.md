@@ -109,6 +109,11 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ユナちゃんジュリちゃん、練習後のアイスでにっこり！ 2022年9月17日 !!!</marquee></span></h1>
+	
+<a href="20220917_001.JPG" data-lightbox="abc"><img src="20220917_001.JPG" alt="サンプル画像" width="900" /></a>
+
+
 <h1><span class="yellow"><marquee behavior="left">!!!  ジュリちゃんと一緒に、日光で滝田先生の高地トレーニング！ 2022年9月10日 !!!</marquee></span></h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/irQBLShSCDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
