@@ -109,7 +109,7 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
-<h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん水泳合宿の成果！　 2022年9月24〜25日 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん水泳合宿の成果！　25m,21s48!! 2022年9月24〜25日 !!!</marquee></span></h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9lIR8seQQFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃんジュリちゃん、練習後のアイスでにっこり！ 2022年9月17日 !!!</marquee></span></h1>
