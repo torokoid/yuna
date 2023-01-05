@@ -109,6 +109,10 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ドリームかわち水泳コンビ、2023年1月5日 ジュリちゃんはお正月から半袖短パン !!!</marquee></span></h1>
+<a href="20230105_001.JPG" data-lightbox="abc"><img src="20230105_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230105_002.JPG" data-lightbox="abc"><img src="20230105_002.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ユナちゃん元気に畑仕事!! 2022年11月11日（前日はお爺ちゃんの命日でした） !!!</marquee></span></h1>
 <a href="20221111_001.JPG" data-lightbox="abc"><img src="20221111_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221111_002.JPG" data-lightbox="abc"><img src="20221111_002.JPG" alt="サンプル画像" width="900" /></a>
