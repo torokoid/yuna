@@ -109,6 +109,11 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ドリームかわち水泳コンビ、2023年3月4日 これから滝田コーチの車で日刊アリーナに向かいます !!!</marquee></span></h1>
+<a href="20230304_001.JPG" data-lightbox="abc"><img src="20230304_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230304_002.JPG" data-lightbox="abc"><img src="20230304_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230304_003.JPG" data-lightbox="abc"><img src="20230304_003.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ドリームかわち水泳コンビ、2023年1月5日 ジュリちゃんはお正月から半袖短パン !!!</marquee></span></h1>
 <a href="20230105_001.JPG" data-lightbox="abc"><img src="20230105_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230105_002.JPG" data-lightbox="abc"><img src="20230105_002.JPG" alt="サンプル画像" width="900" /></a>
