@@ -109,6 +109,16 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん&アキ！、2023年9月10日  !!!</marquee></span></h1>
+
+<a href="20230910_001.JPG" data-lightbox="abc"><img src="20230910_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230910_002.JPG" data-lightbox="abc"><img src="20230910_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230910_003.JPG" data-lightbox="abc"><img src="20230910_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230910_004.JPG" data-lightbox="abc"><img src="20230910_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230910_005.JPG" data-lightbox="abc"><img src="20230910_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230910_006.JPG" data-lightbox="abc"><img src="20230910_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230910_007.JPG" data-lightbox="abc"><img src="20230910_007.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん記録会、１位で合格！、2023年8月11日  !!!</marquee></span></h1>
 <a href="20230811_001.JPG" data-lightbox="abc"><img src="20230811_001.JPG" alt="サンプル画像" width="900" /></a>
 
