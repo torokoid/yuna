@@ -109,6 +109,11 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃんお出かけ！、2024年1月28日  !!!</marquee></span></h1>
+
+<a href="20240128_001.JPG" data-lightbox="abc"><img src="20240128_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240128_002.JPG" data-lightbox="abc"><img src="20240128_002.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん&アキ！、2023年9月10日  !!!</marquee></span></h1>
 
 <a href="20230910_001.JPG" data-lightbox="abc"><img src="20230910_001.JPG" alt="サンプル画像" width="900" /></a>
