@@ -108,6 +108,13 @@ body::before {
 <!--
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
+
+<h1><span class="yellow"><marquee behavior="left">!!! 瀧田コーチと日刊アリーナで特訓にお出かけ！、2024年7月16日  !!!</marquee></span></h1>
+
+<a href="20240716_001.JPG" data-lightbox="abc"><img src="20240716_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240716_002.JPG" data-lightbox="abc"><img src="20240716_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240716_003.JPG" data-lightbox="abc"><img src="20240716_003.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん6年生！、2024年4月12日  !!!</marquee></span></h1>
 
 <a href="20240412_001.JPG" data-lightbox="abc"><img src="20240412_001.JPG" alt="サンプル画像" width="900" /></a>
