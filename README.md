@@ -109,6 +109,10 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! 今日も元気に通学の6年生！、2024年7月19日  !!!</marquee></span></h1>
+
+<a href="20240719_001.JPG" data-lightbox="abc"><img src="20240719_001.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! 瀧田コーチと日刊アリーナでの水泳練習にお出かけ！、2024年7月16日  !!!</marquee></span></h1>
 
 <a href="20240716_001.JPG" data-lightbox="abc"><img src="20240716_001.JPG" alt="サンプル画像" width="900" /></a>
