@@ -109,6 +109,11 @@ body::before {
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
+<h1><span class="yellow"><marquee behavior="left">!!! Yunaちゃん6年生の秋！、2024年10月14日  !!!</marquee></span></h1>
+
+<a href="20241014_200.JPG" data-lightbox="abc"><img src="20241014_200.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241014_201.JPG" data-lightbox="abc"><img src="20241014_201.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="yellow"><marquee behavior="left">!!! 今日も元気に通学の6年生！、2024年7月19日  !!!</marquee></span></h1>
 
 <a href="20240719_001.JPG" data-lightbox="abc"><img src="20240719_001.JPG" alt="サンプル画像" width="900" /></a>
