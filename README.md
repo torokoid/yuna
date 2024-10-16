@@ -113,7 +113,9 @@ body::before {
 
 <a href="20241014_200.JPG" data-lightbox="abc"><img src="20241014_200.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_201.JPG" data-lightbox="abc"><img src="20241014_201.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow", font color=”#ff0000”>この2日後、16日夕方は記念すべき初潮でした！</span></h2>
+<!--
+<h2><span class="yellow">この2日後、16日夕方は記念すべき初潮でした！</span></h2>
+-->
 
 <h1><span class="yellow"><marquee behavior="left">!!! 今日も元気に通学の6年生！、2024年7月19日  !!!</marquee></span></h1>
 
