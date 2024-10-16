@@ -110,9 +110,10 @@ body::before {
 -->
 
 <h1><span class="yellow"><marquee behavior="left">!!! ゆなちゃん6年生の秋！、2024年10月14日  !!!</marquee></span></h1>
-<h2><span class="yellow">2日後の16日夕方、記念すべき初潮でした！</span></h2>
+
 <a href="20241014_200.JPG" data-lightbox="abc"><img src="20241014_200.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_201.JPG" data-lightbox="abc"><img src="20241014_201.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow"><font color=”yellow”>この2日後、16日夕方は記念すべき初潮でした！</font></span></h2>
 
 <h1><span class="yellow"><marquee behavior="left">!!! 今日も元気に通学の6年生！、2024年7月19日  !!!</marquee></span></h1>
 
